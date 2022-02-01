@@ -1,0 +1,30 @@
+CRITICAL - 2022-01-26 00:42:19 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\projectos\2022\pessoal\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\projectos\2022\pessoal\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\projectos\2022\pessoal\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\projectos\2022\pessoal\codeigniter4\spark(45): require('C:\\projectos\\20...')
+#4 {main}
+CRITICAL - 2022-01-26 00:43:10 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\projectos\2022\pessoal\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\projectos\2022\pessoal\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\projectos\2022\pessoal\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\projectos\2022\pessoal\codeigniter4\spark(45): require('C:\\projectos\\20...')
+#4 {main}
+CRITICAL - 2022-01-26 00:46:46 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\projectos\2022\pessoal\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\projectos\2022\pessoal\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\projectos\2022\pessoal\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\projectos\2022\pessoal\codeigniter4\spark(45): require('C:\\projectos\\20...')
+#4 {main}
+CRITICAL - 2022-01-26 00:46:54 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\projectos\2022\pessoal\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\projectos\2022\pessoal\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\projectos\2022\pessoal\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\projectos\2022\pessoal\codeigniter4\spark(45): require('C:\\projectos\\20...')
+#4 {main}
+CRITICAL - 2022-01-26 00:47:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\projectos\2022\pessoal\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\projectos\2022\pessoal\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\projectos\2022\pessoal\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\projectos\2022\pessoal\codeigniter4\spark(45): require('C:\\projectos\\20...')
+#4 {main}

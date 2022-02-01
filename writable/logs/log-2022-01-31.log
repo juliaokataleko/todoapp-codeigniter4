@@ -1,0 +1,8 @@
+CRITICAL - 2022-01-31 17:39:16 --> syntax error, unexpected '...' (T_ELLIPSIS), expecting ';' or ','
+#0 C:\projectos\2022\pessoal\sistema-de-reserva-de-hotel-srh\webapp\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 C:\projectos\2022\pessoal\sistema-de-reserva-de-hotel-srh\webapp\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('auth/register')
+#2 C:\projectos\2022\pessoal\sistema-de-reserva-de-hotel-srh\webapp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\projectos\2022\pessoal\sistema-de-reserva-de-hotel-srh\webapp\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\projectos\2022\pessoal\sistema-de-reserva-de-hotel-srh\webapp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\projectos\2022\pessoal\sistema-de-reserva-de-hotel-srh\webapp\system\Commands\Server\rewrite.php(43): require_once('C:\\projectos\\20...')
+#6 {main}

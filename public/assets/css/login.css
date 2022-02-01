@@ -1,0 +1,77 @@
+.login {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.form {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    background: rgb(255, 255, 255);
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5em;
+}
+
+.login-form-wrapper{
+    width: 96%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.login-title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0;
+    border-bottom: 3px solid #dddddd;
+    margin-bottom: 2em;
+}
+
+.banner {
+    width: 60%;
+    height: 100%;
+    background: #6DB3F2 url('../images/capa.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 1.5em;
+}
+
+.banner h2 {
+    color: #245c75;
+    text-transform: lowercase;
+    margin-bottom: 2em;
+}
+
+.banner img {
+    width: 100%;
+    max-width: 1000px;
+}
+
+@media screen and (max-width: 1200px) {
+    .banner {
+        padding: 0 2%;
+    }
+
+    .banner img {
+        max-width: 400px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .banner {
+        display: none;
+    }
+    .form {
+        width: 100%;
+    }
+}
+
